@@ -13,6 +13,8 @@
   </div>
 </div>
 
+**최신 업데이트 날짜 : `2021.12.22`**
+
 ---
 ## 📖 참가자
 
@@ -77,6 +79,6 @@
 
 ### `21.12.22`
 
-- 현정: [Lv 1 실패율]()
-- 가연: [Lv 2 문자열 압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211222_Lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.js)
-- 석호: [Lv 1 비밀지도](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211222_Lv1_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)
+- 현정 : [Lv 1 실패율]()
+- 가연 : [Lv 2 문자열 압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211222_Lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.js)
+- 석호 : [Lv 1 비밀지도](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211222_Lv1_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)
