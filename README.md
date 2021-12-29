@@ -93,6 +93,6 @@
 
 ### `21.12.29`
 
-- 현정 : [Lv2_순위검색]()
+- 현정 : [Lv2_순위검색](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/211229_Lv2_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.js)
 - 가연 : [Lv2_[1차]프렌즈4블록](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211229_Lv2_%5B1%EC%B0%A8%5D%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)
 - 석호 : [Lv2_괄호변환](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211229_Lv2_%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.cpp)
