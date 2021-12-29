@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2021.12.24`**
+**최신 업데이트 날짜 : `2021.12.29`**
 
 ---
 ## 📖 참가자
@@ -90,3 +90,9 @@
 - 현정 : [Lv 1 실패율](https://github.com/BoostUpStudy/PangyoHunter/commit/7b7ad103dcdad6115a555145abed957c6b95b52c)
 - 가연 : [Lv 2 문자열 압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211222_Lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.js)
 - 석호 : [Lv 1 비밀지도](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211222_Lv1_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)
+
+### `21.12.29`
+
+- 현정 : [Lv2_순위검색]()
+- 가연 : [Lv2_[1차]프렌즈4블록](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211229_Lv2_%5B1%EC%B0%A8%5D%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)
+- 석호 : [Lv2_괄호변환](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211229_Lv2_%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.cpp)
