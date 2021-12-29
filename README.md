@@ -87,7 +87,7 @@
 
 ### `21.12.22`
 
-- 현정 : [Lv 1 실패율](https://github.com/BoostUpStudy/PangyoHunter/commit/7b7ad103dcdad6115a555145abed957c6b95b52c)
+- 현정 : [Lv 1 실패율](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/211222_Lv1_%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)
 - 가연 : [Lv 2 문자열 압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211222_Lv2_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95.js)
 - 석호 : [Lv 1 비밀지도](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211222_Lv1_%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)
 
