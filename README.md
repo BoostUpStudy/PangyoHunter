@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2022.01.04`**
+**최신 업데이트 날짜 : `2022.01.06`**
 
 ---
 ## 📖 참가자
@@ -106,3 +106,9 @@
 - 현정 : [Lv2_순위검색](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/211229_Lv2_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.js)
 - 가연 : [Lv2_[1차]프렌즈4블록](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/211229_Lv2_%5B1%EC%B0%A8%5D%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)
 - 석호 : [Lv2_괄호변환](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/211229_Lv2_%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.cpp)
+
+### `22.01.05`
+
+- 현정 : [Lv1_다트게임]()
+- 석호 : [Lv2_방금그곡](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220105_lv2_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.cpp)
+- 가연 : [Lv2_압축]()
