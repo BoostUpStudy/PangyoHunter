@@ -98,6 +98,11 @@
 - `CS` : OSI 7 layers
 - `JS` : Prototype
 
+### `22.01.07`
+
+- `CS` : Cookie / SEssion
+- `JS` : 실행 컨텍스트
+
 ## 라이브코딩
 
 ### `21.12.22`
