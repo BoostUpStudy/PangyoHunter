@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2022.01.13`**
+**최신 업데이트 날짜 : `2022.01.16`**
 
 ---
 ## 📖 참가자
@@ -121,7 +121,7 @@
 
 - 현정 : [Lv1_다트게임](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220105_Lv2_%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.js)
 - 석호 : [Lv2_방금그곡](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220105_lv2_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.cpp)
-- 가연 : [Lv2_압축]()
+- 가연 : [Lv2_압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/220105_Lv2_%5B3%EC%B0%A8%5D%EC%95%95%EC%B6%95.js)
 
 ### `222.01.12`
 
