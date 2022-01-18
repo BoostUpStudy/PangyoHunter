@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2022.01.16`**
+**최신 업데이트 날짜 : `2022.01.19`**
 
 ---
 ## 📖 참가자
@@ -98,10 +98,20 @@
 - `CS` : OSI 7 layers
 - `JS` : Prototype
 
-### `22.01.07`
+### `22.01.11`
 
-- `CS` : Cookie / SEssion
+- `CS` : Cookie / Session
 - `JS` : 실행 컨텍스트
+
+### `22.01.14`
+
+- `JS` : 비동기 / 이벤트루프 / 클래스
+
+### `22.01.18`
+
+- `CS` : 프로세스 / 스레드
+- `JS` : Promise
+
 
 ## 라이브코딩
 
@@ -123,7 +133,7 @@
 - 석호 : [Lv2_방금그곡](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220105_lv2_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.cpp)
 - 가연 : [Lv2_압축](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/220105_Lv2_%5B3%EC%B0%A8%5D%EC%95%95%EC%B6%95.js)
 
-### `222.01.12`
+### `22.01.12`
 
 - 가연 : [Lv2 캐시](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/220113_Lv2_%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C.js)
 - 현정 : [Lv2 N진수 게임](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220112_Lv2_%5B3%EC%B0%A8%5Dn%EB%B2%88%EC%A7%B8%20%EA%B2%8C%EC%9E%84.js)
