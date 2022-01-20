@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2022.01.19`**
+**최신 업데이트 날짜 : `2022.01.20`**
 
 ---
 ## 📖 참가자
@@ -138,3 +138,10 @@
 - 가연 : [Lv2 캐시](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/yeon52/220113_Lv2_%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C.js)
 - 현정 : [Lv2 N진수 게임](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220112_Lv2_%5B3%EC%B0%A8%5Dn%EB%B2%88%EC%A7%B8%20%EA%B2%8C%EC%9E%84.js)
 - 석호 : [Lv2 파일명 정렬](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220112_Lv2_%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.js);
+
+### `22.01.19`
+
+- 현정 : [JS 순열과 조합 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220119_%EC%88%9C%EC%97%B4%EA%B3%BC%20%EC%A1%B0%ED%95%A9.js)
+- 현정 : [JS 큐 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220119_queue.js)
+- 석호 : [JS 피보나치 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220119_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98.js)
+- 석호 : [JS 큐 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220119_%ED%81%90.js)
