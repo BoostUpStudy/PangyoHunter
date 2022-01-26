@@ -155,3 +155,9 @@
 - 현정 : [JS 큐 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/jyo-jyo/220119_queue.js)
 - 석호 : [JS 피보나치 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220119_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98.js)
 - 석호 : [JS 큐 구현](https://github.com/BoostUpStudy/PangyoHunter/blob/main/LiveCoding/alittlekitten/220119_%ED%81%90.js)
+
+### `22.01.26`
+
+- 가연 :
+- 석호 :
+- 현정 :
