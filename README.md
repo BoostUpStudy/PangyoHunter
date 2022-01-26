@@ -159,5 +159,5 @@
 ### `22.01.26`
 
 - 가연 :
-- 석호 :
+- 석호 : [React CRA TodoList](https://github.com/BoostUpStudy/PangyoHunter/tree/main/LiveCoding/alittlekitten/220126_todoList)
 - 현정 :
