@@ -13,7 +13,7 @@
   </div>
 </div>
 
-**최신 업데이트 날짜 : `2022.01.26`**
+**최신 업데이트 날짜 : `2022.02.06`**
 
 ---
 ## 📖 참가자
@@ -161,3 +161,11 @@
 - 가연 :
 - 석호 : [React CRA TodoList](https://github.com/BoostUpStudy/PangyoHunter/tree/main/LiveCoding/alittlekitten/220126_todoList)
 - 현정 :
+
+
+## 기타
+
+### `22.02.04`
+
+- `Project` : Sooltreaming 재배포 (Frontend 재배포 완료)
+
