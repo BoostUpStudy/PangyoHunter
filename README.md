@@ -169,3 +169,6 @@
 
 - `Project` : Sooltreaming 재배포 (Frontend 재배포 완료)
 
+### `22.02.10`
+
+- `Project` : Sooltreaming 백엔드 서버 재배포 완료 (https://sooltreaming.herokuapp.com/)
