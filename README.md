@@ -126,7 +126,7 @@
 
 - `JS` : Linkedin JavaScript 기술인증 시험
 
-### `22.03.04`
+### `22.03.03`
 
 - `JS` : Linkedin JavaScript 기술인증 시험
 - `JS` : Linkedin React.js 기술인증 시험
