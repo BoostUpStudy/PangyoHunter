@@ -185,3 +185,7 @@
 ### `22.02.10`
 
 - `Project` : Sooltreaming 백엔드 서버 재배포 완료 (https://sooltreaming.herokuapp.com/)
+
+### `22.03.17`
+
+- 쉬어가는 근황토크 (가연, 석호, 석훈)
